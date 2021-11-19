@@ -4,10 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Clone Home"
-      href: index.html
 output:
   html_document:
-    theme: default
+    theme: cosmo
 #     include:
 #      after_body: footer.html
