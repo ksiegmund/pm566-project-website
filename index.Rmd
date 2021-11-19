@@ -1,5 +1,5 @@
 ---
-title: "TITLE HERE"
+title: "My lab 12"
 author: "Kim Siegmund"
 output: 
     html_document:
