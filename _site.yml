@@ -1,0 +1,13 @@
+name: "Kim's website"
+navbar:
+  title: "Proj Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Clone Home"
+      href: index.html
+output:
+  html_document:
+    theme: default
+#     include:
+#      after_body: footer.html
